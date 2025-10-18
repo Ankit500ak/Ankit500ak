@@ -106,6 +106,11 @@ Build impactful tech solutions that **empower society** and create **real-world 
 <div align="center">
 
 <!-- GitHub Stats Cards -->
+<p>
+  <a href="https://github.com/Ankit500ak">
+    <img src="https://img.shields.io/github/stars/Ankit500ak?style=for-the-badge" alt="Total Stars"/>
+  </a>
+</p>
 <table>
   <tr>
     <td align="center">
