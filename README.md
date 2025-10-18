@@ -1,6 +1,6 @@
 <!-- ====================================================== -->
 <p align="center">
-  <img src="./image.png" alt="Ankit Pal Banner" width="100%"/>
+  <img src="image/image.png" alt="Ankit Pal Banner" width="100%"/>
 </p>
 <!-- ====================================================== -->
 <!-- 🌐 Ankit Pal — Professional Interactive GitHub Portfolio -->
