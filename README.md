@@ -12,15 +12,9 @@
   <img src="https://github.com/Ankit500ak/Ankit500ak/blob/main/assets/hero-wave.gif" width="95%" alt="Hero Animation"/>
 </p>
 
-
 <div align="center">
   <h3>💡 Full Stack Developer | AI & ML Enthusiast | Open Source Contributor</h3>
   <p>Building products that empower communities and create impact</p>
-  <br>
-  <!-- Real-time GitHub Stars Badge -->
-  <a href="https://github.com/Ankit500ak">
-    <img src="https://img.shields.io/github/stars/Ankit500ak?style=social" alt="GitHub Stars"/>
-  </a>
 </div>
 
 ---
@@ -106,11 +100,6 @@ Build impactful tech solutions that **empower society** and create **real-world 
 <div align="center">
 
 <!-- GitHub Stats Cards -->
-<p>
-  <a href="https://github.com/Ankit500ak">
-    <img src="https://img.shields.io/github/stars/Ankit500ak?style=for-the-badge" alt="Total Stars"/>
-  </a>
-</p>
 <table>
   <tr>
     <td align="center">
