@@ -109,14 +109,6 @@ Build impactful tech solutions that **empower society** and create **real-world 
         width="350"
       />
     </td>
-
-    <td align="center">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit500ak&layout=compact&theme=radical&hide_border=true" 
-        alt="Top Languages" 
-        width="350"
-      />
-    </td>
   </tr>
   <tr>
     <td colspan="2" align="center" style="padding-top: 20px;">
