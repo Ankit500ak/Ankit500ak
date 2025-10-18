@@ -43,65 +43,19 @@ Hi, I’m <b>Ankit Pal</b>, a passionate Full Stack Developer & AI/ML enthusiast
 </p>
 
 ---
-
-<!-- =============== Featured Projects =============== -->
 ## 🚀 Featured Projects
 
 <div align="center">
 
-<table width="100%" cellspacing="20">
-
-<tr>
-<td align="center" width="50%">
-### 🌟 [Saarthi](https://github.com/Ankit500ak/saarthi)
-<img src="https://github.com/Ankit500ak/saarthi/raw/main/assets/saarthi.gif" width="80%"/>
-<br>
-<b>AI system for SC/ST empowerment</b> — automates benefits distribution and tracks eligibility.<br>
-<b>Tech Stack:</b> Python • Flask • MySQL • AI
-</td>
-
-<td align="center" width="50%">
-### 🌟 [Ureposh](https://github.com/Ankit500ak/ureposh)
-<img src="https://github.com/Ankit500ak/ureposh/raw/main/assets/ureposh.gif" width="80%"/>
-<br>
-<b>Personalized developer platform</b> for sharing, rating, and collaborating on open-source projects.<br>
-<b>Tech Stack:</b> Node.js • Express • MongoDB • React
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-### 🌟 [Git-Shit](https://github.com/Ankit500ak/git-shit)
-<img src="https://github.com/Ankit500ak/git-shit/raw/main/assets/gitshit.gif" width="80%"/>
-<br>
-<b>Git automation tool</b> for merges, pushes, and branch management with AI suggestions.<br>
-<b>Tech Stack:</b> Python • CLI • GitHub API
-</td>
-
-<td align="center" width="50%">
-### 🌟 [NFT-Valut](https://github.com/Ankit500ak/NFT-VALUT)
-<img src="https://github.com/Ankit500ak/NFT-VALUT/raw/main/assets/nftvalut.gif" width="80%"/>
-<br>
-<b>Decentralized NFT platform</b> for minting, trading, and managing digital assets.<br>
-<b>Tech Stack:</b> Solidity • React • Node.js • Ethereum
-</td>
-</tr>
-
-<tr>
-<td align="center" width="50%">
-### 🌟 [Stealth-AI](https://github.com/Ankit500ak/Stealth-AI)
-<img src="https://github.com/Ankit500ak/Stealth-AI/raw/main/assets/stealthai.gif" width="80%"/>
-<br>
-<b>AI-powered privacy & surveillance tool</b> — anonymizes data & detects vulnerabilities.<br>
-<b>Tech Stack:</b> Python • OpenCV • TensorFlow • Flask
-</td>
-
-<td align="center" width="50%"></td>
-</tr>
-</table>
+| Project | Description & Tech Stack |
+|--------|---------------------------|
+| 🌟 [Saarthi](https://github.com/Ankit500ak/saarthi) | **AI system for SC/ST empowerment** — automates benefits distribution and tracks eligibility.<br>**Tech Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![AI](https://img.shields.io/badge/AI-FF6F61?style=flat-square) |
+| 🌟 [Ureposh](https://github.com/Ankit500ak/ureposh) | **Personalized developer platform** for sharing, rating, and collaborating on open-source projects.<br>**Tech Stack:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| 🌟 [Git-Shit](https://github.com/Ankit500ak/git-shit) | **Git automation tool** for merges, pushes, and branch management with AI suggestions.<br>**Tech Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![CLI](https://img.shields.io/badge/CLI-000000?style=flat-square) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| 🌟 [NFT-Valut](https://github.com/Ankit500ak/NFT-VALUT) | **Decentralized NFT platform** for minting, trading, and managing digital assets.<br>**Tech Stack:** ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-627EEA?style=flat-square&logo=ethereum&logoColor=white) |
+| 🌟 [Stealth-AI](https://github.com/Ankit500ak/Stealth-AI) | **AI-powered privacy & surveillance tool** — anonymizes data & detects vulnerabilities.<br>**Tech Stack:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F61?style=flat-square&logo=tensorflow&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
 
 </div>
-
 ---
 
 <!-- =============== GitHub Stats =============== -->
