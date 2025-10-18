@@ -1,14 +1,15 @@
-<!--
-  GitHub Profile README for Ankit Pal
-  Modern, clean, and responsive markdown design
--->
+<!-- Animated Interactive GitHub README for Ankit Pal -->
 
-<h1 align="center">Hey there! 👋 I'm <span style="color:#00AEEF;">Ankit Pal</span></h1>
+<!-- Header -->
+<div align="center">
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey+there!+👋+I'm+Ankit+Pal;Software+Developer+💻;Open+Source+Contributor+🌍;Tech+Enthusiast+⚡;AI+%7C+Web3+%7C+ML+Explorer+🚀" alt="Typing SVG" />
 
-<h3 align="center">🚀 Software Developer | 💡 Tech Enthusiast | 🌍 Open Source Contributor</h3>
+</div>
 
 ---
 
+<!-- Social Links -->
 <p align="center">
   <a href="https://linkedin.com/in/your-link">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -26,88 +27,104 @@
 
 ---
 
-## 💻 About Me
-
-I'm a passionate **software developer** who loves building **scalable, real-world applications** and contributing to the open-source community.  
-Curious by nature, I enjoy learning, experimenting, and implementing cutting-edge technologies.
-
-- 🚀 **Currently working on:** AI, Web3, and DevOps-based projects  
-- 🌱 **Learning:** Advanced system design & cloud architectures  
-- 🎯 **Goal:** To create impactful, user-centric products  
-- 💡 **Interests:** Full-stack development, machine learning, and automation  
-
----
-
-## 🛠️ Tech Stack
-
-### 💬 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-
-### 🧩 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+<!-- About -->
+<h2 align="center">💻 About Me</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankit500ak&show_icons=true&theme=radical&hide_border=true" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit500ak&layout=compact&theme=radical&hide_border=true" height="160px"/>
+I'm a passionate <b>Software Developer</b> who loves crafting <b>scalable applications</b> and contributing to <b>open-source</b> communities.  
+Driven by curiosity, I explore new technologies and turn ideas into reality through clean and creative code.
+</p>
+
+<div align="center">
+
+🌱 Currently learning **Advanced System Design & Cloud Architecture**  
+🚀 Working on **AI, Web3, and DevOps Projects**  
+🎯 Goal: Build **impactful products** that empower people  
+💡 Interests: **Machine Learning, Full Stack Dev & Automation**
+
+</div>
+
+---
+
+<!-- Animated Tech Stack -->
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,react,nodejs,express,django,mongodb,mysql,tailwind,git,docker,vscode,github,figma&theme=light" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats & Activity</h2>
 
-### 🔹 [Vice Automation](https://github.com/)
-AI-powered automation framework for daily workflow optimization  
-**Tech:** Python | Flask | OpenAI | Automation  
-> Built a smart system that automates day-to-day repetitive coding tasks using prompt engineering.
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Ankit500ak&show_icons=true&theme=radical&hide_border=true" height="170px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit500ak&theme=radical&hide_border=true" height="170px"/>
 
-### 🔹 [Real-Time Hospital Network System](https://github.com/)
-A real-time emergency care network connecting patients, hospitals, and ambulances.  
-**Tech:** Node.js | Socket.io | MongoDB | React  
-> Enables faster emergency response by providing live hospital and ambulance availability.
+<br/>
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit500ak&theme=react-dark&bg_color=20232a&hide_border=true&line=00BFFF&point=FFFFFF&area=true" width="90%"/>
 
-### 🔹 [Eco Mender](https://github.com/)
-A sustainable IoT-based system to detect and mend oceanic oil leaks.  
-**Tech:** Python | ML | IoT Sensors | AWS  
-> Designed for environmental protection and efficient resource management.
+</div>
 
 ---
 
-## 🏆 Achievements & Certifications
+<!-- Featured Projects -->
+<h2 align="center">🚀 Featured Projects</h2>
 
-- 🥇 Winner — Coding Competition @ Dronacharya College of Engineering  
-- 🥈 Certified — Java Developer (Oracle Academy)  
-- 🥉 Certified — Web Development (Coursera)  
-- 🏅 Certification — Neural Networks & Deep Learning (Coursera)
+<table align="center">
+<tr>
+<td width="50%">
+<h3 align="center"><a href="https://github.com/">Vice Automation</a></h3>
+<p>🔹 AI-driven automation framework that enhances developer productivity using real-time prompt engineering.</p>
+<p><b>Tech:</b> Python | Flask | AI | Automation</p>
+</td>
+
+<td width="50%">
+<h3 align="center"><a href="https://github.com/">Real-Time Hospital Network System</a></h3>
+<p>🏥 Connects hospitals, patients & ambulances for real-time emergency coordination and hospital tracking.</p>
+<p><b>Tech:</b> Node.js | Socket.io | MongoDB | React</p>
+</td>
+</tr>
+</table>
+
+<table align="center">
+<tr>
+<td width="50%">
+<h3 align="center"><a href="https://github.com/">Eco Mender</a></h3>
+<p>🌊 Smart IoT + ML system that detects and prevents ocean oil leaks with automated reporting.</p>
+<p><b>Tech:</b> Python | ML | IoT | AWS</p>
+</td>
+
+<td width="50%">
+<h3 align="center"><a href="https://github.com/">CodeWeave</a></h3>
+<p>💡 AI-driven roadmap generator that helps developers learn projects by building them step-by-step.</p>
+<p><b>Tech:</b> Python | FastAPI | ML | Web Automation</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 Quick Stats
+<!-- Achievements -->
+<h2 align="center">🏆 Achievements & Certifications</h2>
 
+<p align="center">
+🥇 Winner — <b>Coding Competition @ Dronacharya College</b>  
+🥈 Certified — <b>Java Developer (Oracle Academy)</b>  
+🥉 Certified — <b>Web Development (Coursera)</b>  
+🏅 Certified — <b>Neural Networks & Deep Learning</b>
+</p>
+
+---
+
+<!-- Quick Stats -->
+<h2 align="center">📈 Quick Stats</h2>
+
+<p align="center">
+  
 | Metric | Count |
 |--------|-------|
 | 🚀 Projects | 50+ |
@@ -115,22 +132,26 @@ A sustainable IoT-based system to detect and mend oceanic oil leaks.
 | 💼 Experience | 5+ Years |
 | 💬 Languages Known | 4+ |
 
----
-
-## 🤝 Let's Connect!
-
-I'm always open to **collaborations**, **mentorships**, and **tech discussions**.  
-Let’s build something amazing together! 🚀
-
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  
-💼 **LinkedIn:** [linkedin.com/in/your-link](https://linkedin.com/in/your-link)  
-🐦 **Twitter:** [@YourHandle](https://twitter.com/your-link)  
-🌐 **Portfolio:** [your-portfolio.com](https://your-portfolio.com)
+</p>
 
 ---
+
+<!-- Contact -->
+<h2 align="center">🤝 Let's Connect!</h2>
 
 <p align="center">
-  ⭐ If you like my work, don’t forget to star my repositories!  
-  <br/>
-  <i>Made with ❤️ by Ankit Pal</i>
+📧 <a href="mailto:your-email@example.com">your-email@example.com</a>  
+<br/>
+💼 <a href="https://linkedin.com/in/your-link">LinkedIn</a> • 🐦 <a href="https://twitter.com/your-link">Twitter</a> • 🌐 <a href="https://your-portfolio.com">Portfolio</a>
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Made+with+❤️+by+Ankit+Pal" alt="Footer Typing Animation" />
+</p>
+
+<p align="center">
+  ⭐ If you like my work, don’t forget to star my repositories!
 </p>
