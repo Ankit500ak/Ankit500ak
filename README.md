@@ -1,7 +1,4 @@
 <!-- ====================================================== -->
-<p align="center">
-  <img src="https://i.ibb.co/BH4Y2Kw5/image.png" alt="Ankit Pal Banner" width="100%"/>
-</p>
 <!-- ====================================================== -->
 <!-- 🌐 Ankit Pal — Professional Interactive GitHub Portfolio -->
 <!-- ====================================================== -->
