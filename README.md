@@ -19,17 +19,32 @@
 ---
 
 <!-- =============== About Me =============== -->
+# 👋 Hey there! I'm Ankit Pal
+
+> **Full Stack Developer | AI/ML Enthusiast | Open Source Contributor**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-link) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit500ak) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+</div>
+
+---
+
 ## 🧭 About Me
 
 Hi, I’m **Ankit Pal** — a passionate **Full Stack Developer** & **AI/ML Enthusiast**.  
-I specialize in building **scalable applications, automation systems, blockchain platforms**, and **AI-driven solutions**.
+I build **scalable applications, automation systems, blockchain platforms**, and **AI-driven solutions**.
 
 ---
 
 ### 🌱 Currently Exploring
-- **AI-powered productivity tools**  
-- **Blockchain & NFT applications**  
-- **Advanced system design & cloud architectures**
+- AI-powered productivity tools  
+- Blockchain & NFT applications  
+- Advanced system design & cloud architectures
 
 ### 🎯 Goal
 Build impactful tech solutions that **empower society** and create **real-world impact**.
@@ -39,7 +54,7 @@ Build impactful tech solutions that **empower society** and create **real-world 
 
 ---
 
-### 🔧 Highlights & Skills
+## 🔧 Highlights & Skills
 
 | Skill Area | Tools & Technologies |
 |------------|--------------------|
@@ -48,9 +63,6 @@ Build impactful tech solutions that **empower society** and create **real-world 
 | **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) |
 | **AI & ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge) |
 | **Dev Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
-
----
-
 
 
 ---
