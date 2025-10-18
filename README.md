@@ -221,7 +221,7 @@ Build impactful tech solutions that **empower society** and create **real-world 
 
 <!-- Footer Wave -->
 <div align="center" style="margin-top: -20px;">
-  <img src="https://github.com/Ankit500ak/Ankit500ak/image.png" width="100%" alt="footer-wave">
+  <img src="image/image.png" width="100%" alt="footer-wave">
 </div>
 
 <!-- Footer Text Card -->
