@@ -21,12 +21,10 @@
 <!-- =============== About Me =============== -->
 ## 🧭 About Me
 
-Hi, I’m **Ankit Pal** — a passionate **Full Stack Developer** & **AI/ML enthusiast**.  
+Hi, I’m **Ankit Pal** — a passionate **Full Stack Developer** & **AI/ML Enthusiast**.  
 I specialize in building **scalable applications, automation systems, blockchain platforms**, and **AI-driven solutions**.
 
 ---
-
-<div align="center">
 
 ### 🌱 Currently Exploring
 - **AI-powered productivity tools**  
@@ -39,19 +37,20 @@ Build impactful tech solutions that **empower society** and create **real-world 
 ### 💬 Philosophy
 > "Code with purpose, design with empathy, innovate with impact"
 
-</div>
-
 ---
 
 ### 🔧 Highlights & Skills
 
 | Skill Area | Tools & Technologies |
 |------------|--------------------|
-| **Languages** | Python, JavaScript, TypeScript, C++ |
-| **Frontend** | React, HTML5, CSS3, Tailwind CSS |
-| **Backend** | Node.js, Django, Express.js |
-| **AI & ML** | TensorFlow, PyTorch, Scikit-learn, OpenCV |
-| **Dev Tools** | Git, GitHub, Docker, VS Code |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) |
+| **AI & ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge) |
+| **Dev Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+
+---
+
 
 
 ---
