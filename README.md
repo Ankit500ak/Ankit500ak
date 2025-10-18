@@ -103,20 +103,33 @@ Build impactful tech solutions that **empower society** and create **real-world 
 <table>
   <tr>
     <td align="center">
-    <img 
+      <img 
         src="https://github-readme-stats.vercel.app/api?username=Ankit500ak&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_stars=true" 
         alt="GitHub Stats" 
         width="350"
-    />
-        </td>
+      />
+    </td>
 
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit500ak&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="350"/>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit500ak&layout=compact&theme=radical&hide_border=true" 
+        alt="Top Languages" 
+        width="350"
+      />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center" style="padding-top: 20px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit500ak&theme=radical&hide_border=true" alt="GitHub Streak" width="700"/>
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit500ak&theme=radical&hide_border=true" 
+        alt="GitHub Streak" 
+        width="700"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="padding-top: 20px;">
+      ![GitHub Score](https://img.shields.io/badge/GitHub%20Score-1234-radical)
     </td>
   </tr>
 </table>
