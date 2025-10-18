@@ -98,17 +98,32 @@ Build impactful tech solutions that **empower society** and create **real-world 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankit500ak&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit500ak&layout=compact&theme=radical&hide_border=true)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ankit500ak&theme=radical&hide_border=true)
+<!-- GitHub Stats Cards -->
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Ankit500ak&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="350"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit500ak&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="350"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" style="padding-top: 20px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit500ak&theme=radical&hide_border=true" alt="GitHub Streak" width="700"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit500ak&theme=react-dark&hide_border=true&bg_color=0D1117&line=FF7B00&color=FF7B00" width="90%"/>
+<!-- Contribution Graph -->
+<p align="center" style="margin-top: 30px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankit500ak&theme=react-dark&hide_border=true&bg_color=0D1117&line=FF7B00&color=FF7B00" alt="GitHub Activity Graph" width="90%"/>
 </p>
 
 </div>
 
 ---
+
 
 <!-- =============== Achievements =============== -->
 ## 🏆 Achievements
