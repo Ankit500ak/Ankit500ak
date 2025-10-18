@@ -130,19 +130,68 @@ Build impactful tech solutions that **empower society** and create **real-world 
 
 <div align="center">
 
-- 🥇 **Winner** — Coding Competition at *Dronacharya College of Engineering*  
-- 💻 **Project Lead & Developer** — Real-time Library Management System  
-- 🎓 **Mentor** — Free Web Development Workshops at *Harmony House NGO*  
-- 💼 **Internship** — Web Developer Intern at *E2 Solution* (React, Node.js, Supabase)  
-- 🎤 **Speaker** — HTML & Web Design Session at *Harmony House*  
-- 🎯 **Organizer** — *Illuminating Minds* Tech Fest 2024 for Engineers  
-- 📜 **Certifications** — Java, Neural Networks, Web Development, AI/ML  
-- 🏆 **Winner & Recognition** — Various College Hackathons & Coding Competitions  
+<!-- Achievement Cards -->
+<table>
+  <tr>
+    <td align="center">
+      🥇<br>
+      <b>Winner</b><br>
+      Coding Competition<br>
+      <i>Dronacharya College of Engineering</i>
+    </td>
+    <td align="center">
+      💻<br>
+      <b>Project Lead & Developer</b><br>
+      Real-time Library Management System
+    </td>
+    <td align="center">
+      🎓<br>
+      <b>Mentor</b><br>
+      Free Web Development Workshops<br>
+      <i>Harmony House NGO</i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      💼<br>
+      <b>Intern</b><br>
+      Web Developer Intern<br>
+      <i>E2 Solution</i>
+    </td>
+    <td align="center">
+      🎤<br>
+      <b>Speaker</b><br>
+      HTML & Web Design Session<br>
+      <i>Harmony House</i>
+    </td>
+    <td align="center">
+      🎯<br>
+      <b>Organizer</b><br>
+      Illuminating Minds Tech Fest 2024
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      📜<br>
+      <b>Certifications</b><br>
+      Java • Neural Networks • Web Dev • AI/ML
+    </td>
+    <td align="center">
+      🏆<br>
+      <b>Hackathon Winner</b><br>
+      Multiple College Coding Competitions
+    </td>
+    <td align="center">
+      🚀<br>
+      <b>Open Source Contributor</b><br>
+      Multiple GitHub Projects
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
-
 
 
 <!-- =============== Connect =============== -->
