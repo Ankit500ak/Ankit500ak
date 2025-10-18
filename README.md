@@ -121,7 +121,7 @@ Build impactful tech solutions that **empower society** and create **real-world 
   </tr>
   <tr>
     <td colspan="2" align="center" style="padding-top: 20px;">
-      ![GitHub Score](https://img.shields.io/badge/GitHub%20Score-1234-radical)
+      <img src="https://img.shields.io/badge/GitHub%20Score-1234-radical" alt="GitHub Score"/>
     </td>
   </tr>
 </table>
