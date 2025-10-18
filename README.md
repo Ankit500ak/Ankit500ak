@@ -1,6 +1,6 @@
 <!-- ====================================================== -->
 <p align="center">
-  <img src="assets/image.png" alt="Ankit Pal Banner" width="100%"/>
+  <img src="https://i.ibb.co/BH4Y2Kw5/image.png" alt="Ankit Pal Banner" width="100%"/>
 </p>
 <!-- ====================================================== -->
 <!-- 🌐 Ankit Pal — Professional Interactive GitHub Portfolio -->
@@ -221,7 +221,7 @@ Build impactful tech solutions that **empower society** and create **real-world 
 
 <!-- Footer Wave -->
 <div align="center" style="margin-top: -20px;">
-  <img src="assets/image.png" width="100%" alt="footer-wave">
+  <img src="https://i.ibb.co/BH4Y2Kw5/image.png" width="100%" alt="footer-wave">
 </div>
 
 <!-- Footer Text Card -->
