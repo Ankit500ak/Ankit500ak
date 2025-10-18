@@ -22,15 +22,20 @@
 ## 🧭 About Me
 
 Hi, I’m **Ankit Pal** — a passionate **Full Stack Developer** & **AI/ML enthusiast**.  
-I love building **scalable applications, automation systems, blockchain platforms, and AI-driven solutions**.
+I love building **scalable applications, automation systems, blockchain platforms**, and **AI-driven solutions**.
 
-<div align="center">
+---
 
-| 🌱 Currently Exploring | 🎯 Goal | 💬 Philosophy |
-|------------------------|---------|---------------|
-| AI-powered productivity tools, Blockchain & NFT platforms | Build impactful tech solutions that empower society | "Code with purpose, design with empathy, innovate with impact" |
+### 🌱 Currently Exploring
+- AI-powered productivity tools  
+- Blockchain & NFT applications  
+- Advanced system design & cloud architectures
 
-</div>
+### 🎯 Goal
+Build impactful tech solutions that **empower society** and create real-world impact.
+
+### 💬 Philosophy
+> "Code with purpose, design with empathy, innovate with impact"
 
 
 ---
