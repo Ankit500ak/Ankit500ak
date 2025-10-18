@@ -20,15 +20,18 @@
 
 <!-- =============== About Me =============== -->
 ## 🧭 About Me
-<p>
-Hi, I’m <b>Ankit Pal</b>, a passionate Full Stack Developer & AI/ML enthusiast. I love building <b>scalable apps, automation systems, blockchain platforms</b>, and AI-driven solutions.
-</p>
 
-<ul>
-<li>🌱 Currently exploring AI-powered productivity tools, blockchain & NFT applications</li>
-<li>🎯 Goal: Build impactful tech solutions that empower society</li>
-<li>💬 Philosophy: <i>"Code with purpose, design with empathy, innovate with impact"</i></li>
-</ul>
+Hi, I’m **Ankit Pal** — a passionate **Full Stack Developer** & **AI/ML enthusiast**.  
+I love building **scalable applications, automation systems, blockchain platforms, and AI-driven solutions**.
+
+<div align="center">
+
+| 🌱 Currently Exploring | 🎯 Goal | 💬 Philosophy |
+|------------------------|---------|---------------|
+| AI-powered productivity tools, Blockchain & NFT platforms | Build impactful tech solutions that empower society | "Code with purpose, design with empathy, innovate with impact" |
+
+</div>
+
 
 ---
 
