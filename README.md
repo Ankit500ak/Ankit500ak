@@ -194,20 +194,33 @@ Build impactful tech solutions that **empower society** and create **real-world 
 ---
 
 
-<!-- =============== Connect =============== -->
+<!-- ================== Connect ================== -->
 ## 🌐 Connect with Me
 
-<p align="center">
-  <a href="mailto:ankitpal500.ak@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ankitpal500"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Ankit500ak"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://portfolio.ankitpal.in"><img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-</p>
+<div align="center" style="margin-bottom: 20px;">
 
-<div align="center">
-  <img src="https://github.com/Ankit500ak/Ankit500ak/blob/main/assets/footer-wave.svg" width="100%">
+<!-- Social Badges -->
+<a href="mailto:ankitpal500.ak@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://linkedin.com/in/ankitpal500" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Ankit500ak" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://portfolio.ankitpal.in" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+</a>
+
 </div>
 
-<h3 align="center">
+<!-- Footer Wave -->
+<div align="center">
+  <img src="https://github.com/Ankit500ak/Ankit500ak/blob/main/assets/footer-wave.svg" width="100%" alt="footer-wave">
+</div>
+
+<!-- Footer Text -->
+<h3 align="center" style="margin-top: -10px;">
 ✨ Crafted with ❤️ & Creativity by <a href="https://github.com/Ankit500ak">Ankit Pal</a> ✨
 </h3>
