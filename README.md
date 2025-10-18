@@ -103,12 +103,13 @@ Build impactful tech solutions that **empower society** and create **real-world 
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Ankit500ak&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="350"/>
-      <br>
-      <a href="https://github.com/Ankit500ak">
-        <img src="https://img.shields.io/github/stars/Ankit500ak?style=for-the-badge" alt="Total Stars"/>
-      </a>
-    </td>
+    <img 
+        src="https://github-readme-stats.vercel.app/api?username=Ankit500ak&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_stars=true" 
+        alt="GitHub Stats" 
+        width="350"
+    />
+        </td>
+
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit500ak&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="350"/>
     </td>
