@@ -121,7 +121,10 @@ Build impactful tech solutions that **empower society** and create **real-world 
   </tr>
   <tr>
     <td colspan="2" align="center" style="padding-top: 20px;">
-      <img src="https://img.shields.io/badge/GitHub%20Score-1234-radical" alt="GitHub Score"/>
+      <div style="display: inline-block; background: linear-gradient(135deg, #232526 0%, #414345 100%); border-radius: 18px; box-shadow: 0 4px 24px rgba(0,0,0,0.15); padding: 18px 36px; margin: 10px 0;">
+        <span style="font-size: 1.2rem; color: #FF7B00; font-weight: bold; letter-spacing: 1px;">GitHub Score</span>
+        <span style="display: inline-block; margin-left: 18px; background: #181818; color: #fff; font-size: 1.2rem; font-weight: bold; border-radius: 12px; padding: 6px 22px; box-shadow: 0 2px 8px rgba(0,0,0,0.10); vertical-align: middle;">1234</span>
+      </div>
     </td>
   </tr>
 </table>
