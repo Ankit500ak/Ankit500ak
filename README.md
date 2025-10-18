@@ -126,15 +126,24 @@ Build impactful tech solutions that **empower society** and create **real-world 
 
 
 <!-- =============== Achievements =============== -->
-## 🏆 Achievements
+## 🏆 Achievements & Highlights
 
-- 🥇 Winner — Coding Competition, *Dronacharya College of Engineering*  
-- 🎓 Mentor — Free Web Dev Workshops, *Harmony House NGO*  
-- 💼 Intern — Web Developer, *E2 Solution*  
-- 🎤 Speaker — HTML & Web Design Session, *Harmony House*  
-- 🎯 Organizer — *Illuminating Minds* Tech Fest 2024  
+<div align="center">
+
+- 🥇 **Winner** — Coding Competition at *Dronacharya College of Engineering*  
+- 💻 **Project Lead & Developer** — Real-time Library Management System  
+- 🎓 **Mentor** — Free Web Development Workshops at *Harmony House NGO*  
+- 💼 **Internship** — Web Developer Intern at *E2 Solution* (React, Node.js, Supabase)  
+- 🎤 **Speaker** — HTML & Web Design Session at *Harmony House*  
+- 🎯 **Organizer** — *Illuminating Minds* Tech Fest 2024 for Engineers  
+- 📜 **Certifications** — Java, Neural Networks, Web Development, AI/ML  
+- 🏆 **Winner & Recognition** — Various College Hackathons & Coding Competitions  
+
+</div>
 
 ---
+
+
 
 <!-- =============== Connect =============== -->
 ## 🌐 Connect with Me
