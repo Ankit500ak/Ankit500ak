@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 310" width="100%"><defs>
+<pattern id="dots" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(30)"><circle cx="4.5" cy="4.5" r="1.7" fill="#000"/></pattern>
+<pattern id="dots2" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><circle cx="3" cy="3" r="1.2" fill="#fff"/></pattern>
+<pattern id="hatch" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(40)"><line x1="0" y1="0" x2="0" y2="7" stroke="#000" stroke-width="1.6"/></pattern>
+<linearGradient id="fade" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<mask id="m"><rect width="1000" height="900" fill="url(#fade)"/></mask>
+</defs><style>
+*{transform-box:fill-box}
+@keyframes drift{from{transform:translate(0,0)}to{transform:translate(18px,9px)}}
+@keyframes pulse{0%,100%{transform:scale(1)}50%{transform:scale(1.06)}}
+@keyframes pop{0%,100%{transform:scale(1) rotate(0)}50%{transform:scale(1.12) rotate(3deg)}}
+@keyframes shake{0%,100%{transform:translate(0,0)}25%{transform:translate(2px,-2px)}75%{transform:translate(-2px,2px)}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes spinr{to{transform:rotate(-360deg)}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-12px)}}
+@keyframes twinkle{0%,100%{opacity:.1;transform:scale(.3)}50%{opacity:1;transform:scale(1)}}
+@keyframes eyeblink{0%,92%,100%{transform:scaleY(1)}95%{transform:scaleY(.07)}}
+@keyframes cover{0%,5%{transform:scaleX(1)}30%,92%{transform:scaleX(0)}100%{transform:scaleX(1)}}
+@keyframes segin{0%,6%{opacity:0}14%,86%{opacity:1}100%{opacity:0}}
+@keyframes marq{to{transform:translateX(-1500px)}}
+@keyframes marqr{from{transform:translateX(-1500px)}to{transform:translateX(0)}}
+@keyframes sweep{0%,55%{transform:translateX(-320px) skewX(-20deg)}100%{transform:translateX(420px) skewX(-20deg)}}
+@keyframes wave{0%{transform:scale(.55);opacity:.85}100%{transform:scale(1.7);opacity:0}}
+@keyframes sway{0%,100%{transform:rotate(-6deg)}50%{transform:rotate(7deg)}}
+@keyframes key{0%,100%{opacity:.15}50%{opacity:1}}
+@keyframes flash{0%,90%,100%{opacity:0}93%{opacity:.85}96%{opacity:0}98%{opacity:.6}}
+@keyframes glitch{0%,90%,100%{transform:translate(0,0)}92%{transform:translate(-5px,1px)}95%{transform:translate(5px,-1px)}97%{transform:translate(-2px,0)}}
+@keyframes bounce{0%,100%{transform:translateY(0)}50%{transform:translateY(7px)}}
+@keyframes look{0%,40%,100%{transform:translate(0,0)}50%,80%{transform:translate(9px,-5px)}}
+@keyframes grow{0%,8%{transform:scaleX(0)}40%,90%{transform:scaleX(1)}100%{transform:scaleX(0)}}
+.drift{animation:drift 3s ease-in-out infinite alternate}
+.pulse{transform-origin:center;animation:pulse 2.2s ease-in-out infinite}
+.pop{transform-origin:center;animation:pop 1.1s ease-in-out infinite}
+.shake{transform-origin:center;animation:shake .45s steps(2) infinite}
+.blink{animation:blink 1s steps(1) infinite}
+.spin{transform-origin:center;animation:spin 40s linear infinite}
+.spinr{transform-origin:center;animation:spinr 60s linear infinite}
+.float{transform-origin:center;animation:float 3.4s ease-in-out infinite}
+.twinkle{transform-origin:center;animation:twinkle 2.4s ease-in-out infinite}
+.blinkeye{transform-origin:center;animation:eyeblink 5s infinite}
+.cov{transform-origin:right center;animation:cover 9s steps(24) infinite}
+.seg{animation:segin 6s ease-out infinite}
+.marq{animation:marq 28s linear infinite}.marqr{animation:marqr 34s linear infinite}
+.sweep{animation:sweep 5s ease-in-out infinite}
+.wave{transform-origin:center;animation:wave 2.4s ease-out infinite}
+.sway{transform-origin:bottom center;animation:sway 2.8s ease-in-out infinite}
+.key{animation:key .9s steps(1) infinite}
+.flash{animation:flash 7s infinite}
+.glitch{animation:glitch 6s infinite}
+.bounce{animation:bounce 1.1s ease-in-out infinite}
+.look{animation:look 6s ease-in-out infinite}
+.grow{transform-origin:left center;animation:grow 5s ease-out infinite}
+</style><rect width="1000" height="310" fill="#fff"/><clipPath id="a1"><polygon points="10,10 580,10 566,300 10,300"/></clipPath><g clip-path="url(#a1)"><rect x="10" y="10" width="570" height="290" fill="#fff"/><rect class="drift" x="-10" y="-10" width="630" height="350" fill="url(#dots)" opacity="0.16"/><rect x="28" y="26" width="200" height="30" fill="#000"/><text x="40" y="48" font-family="Impact,'Arial Black','Arial Narrow Bold',sans-serif" font-size="20" fill="#fff" letter-spacing="2">NARRATION</text><text x="38" y="96" font-family="'Comic Sans MS','Chalkboard SE','Marker Felt',Arial,sans-serif" font-size="23" font-weight="bold">B.Tech graduate · CSE (AI &amp; ML)</text><rect class="cov" style="animation-delay:0.0s" x="30" y="72" width="530" height="32" fill="#fff"/><text x="38" y="132" font-family="'Comic Sans MS','Chalkboard SE','Marker Felt',Arial,sans-serif" font-size="23" font-weight="bold">Dronacharya College of Engineering,</text><rect class="cov" style="animation-delay:0.7s" x="30" y="108" width="530" height="32" fill="#fff"/><text x="38" y="168" font-family="'Comic Sans MS','Chalkboard SE','Marker Felt',Arial,sans-serif" font-size="23" font-weight="bold">Gurugram.</text><rect class="cov" style="animation-delay:1.4s" x="30" y="144" width="530" height="32" fill="#fff"/><text x="38" y="204" font-family="'Comic Sans MS','Chalkboard SE','Marker Felt',Arial,sans-serif" font-size="21" font-weight="bold">Builds full-stack products, ML systems</text><rect class="cov" style="animation-delay:2.0999999999999996s" x="30" y="180" width="530" height="32" fill="#fff"/><text x="38" y="240" font-family="'Comic Sans MS','Chalkboard SE','Marker Felt',Arial,sans-serif" font-size="21" font-weight="bold">and automation people actually use.</text><rect class="cov" style="animation-delay:2.8s" x="30" y="216" width="530" height="32" fill="#fff"/><g transform="translate(520,50)"><g class="twinkle" style="animation-delay:0s"><path d="M0,-16 L3.5,-3.5 L16,0 L3.5,3.5 L0,16 L-3.5,3.5 L-16,0 L-3.5,-3.5 Z" fill="#fff" stroke="#000" stroke-width="2"/></g></g><g transform="translate(480,260)"><g class="twinkle" style="animation-delay:1s"><path d="M0,-12 L2.6,-2.6 L12,0 L2.6,2.6 L0,12 L-2.6,2.6 L-12,0 L-2.6,-2.6 Z" fill="#fff" stroke="#000" stroke-width="2"/></g></g></g><clipPath id="a2"><polygon points="596,10 990,10 990,150 590,150"/></clipPath><g clip-path="url(#a2)"><rect x="590" y="10" width="400" height="140" fill="#fff"/><rect class="drift" x="570" y="-10" width="460" height="200" fill="url(#dots)" opacity="0.16"/><g fill="#000"><polygon points="868,80 1050,72 1050,88"/><polygon points="959,107 1048,110 1045,131"/><polygon points="924,123 1041,148 1033,173"/><polygon points="887,130 1026,190 1017,206"/><polygon points="853,126 1007,223 993,242"/><polygon points="911,201 979,258 968,269"/><polygon points="873,194 951,284 934,296"/><polygon points="840,177 919,305 896,317"/><polygon points="814,154 879,324 862,330"/><polygon points="817,249 842,335 819,338"/><polygon points="790,220 798,340 782,340"/><polygon points="773,188 760,338 739,335"/><polygon points="766,154 722,331 697,323"/><polygon points="712,233 680,316 664,307"/><polygon points="707,194 647,297 628,283"/><polygon points="713,157 612,269 601,258"/><polygon points="727,126 586,241 574,224"/><polygon points="637,158 565,209 553,186"/><polygon points="656,123 546,169 540,152"/><polygon points="682,97 535,132 532,109"/><polygon points="712,80 530,88 530,72"/><polygon points="621,53 532,50 535,29"/><polygon points="656,37 539,12 547,-13"/><polygon points="693,30 554,-30 563,-46"/><polygon points="727,34 573,-63 587,-82"/><polygon points="669,-41 601,-98 612,-109"/><polygon points="707,-34 629,-124 646,-136"/><polygon points="740,-17 661,-145 684,-157"/><polygon points="766,6 701,-164 718,-170"/><polygon points="763,-89 738,-175 761,-178"/><polygon points="790,-60 782,-180 798,-180"/><polygon points="807,-28 820,-178 841,-175"/><polygon points="814,6 858,-171 883,-163"/><polygon points="868,-73 900,-156 916,-147"/><polygon points="873,-34 933,-137 952,-123"/><polygon points="867,3 968,-109 979,-98"/><polygon points="853,34 994,-81 1006,-64"/><polygon points="943,2 1015,-49 1027,-26"/><polygon points="924,37 1034,-9 1040,8"/><polygon points="898,63 1045,28 1048,51"/></g><ellipse cx="790" cy="80" rx="165" ry="55" fill="#fff" stroke="#000" stroke-width="5"/><polygon points="700,118 668,146 730,128" fill="#fff" stroke="#000" stroke-width="5"/><polygon points="702,112 682,130 724,120" fill="#fff"/><text x="790" y="76" text-anchor="middle" font-family="'Comic Sans MS','Chalkboard SE','Marker Felt',Arial,sans-serif" font-size="22" font-weight="bold">If I do it twice,</text><text x="790" y="104" text-anchor="middle" font-family="'Comic Sans MS','Chalkboard SE','Marker Felt',Arial,sans-serif" font-size="22" font-weight="bold">I script it.</text></g><clipPath id="a3"><polygon points="588,166 990,166 990,300 580,300"/></clipPath><g clip-path="url(#a3)"><rect x="580" y="166" width="410" height="134" fill="#000"/><rect class="drift" x="560" y="146" width="470" height="194" fill="url(#dots2)" opacity="0.5"/><text x="610" y="204" font-family="Impact,'Arial Black','Arial Narrow Bold',sans-serif" font-size="22" fill="#fff" letter-spacing="2">NOW</text><text x="610" y="232" font-family="'Comic Sans MS','Chalkboard SE','Marker Felt',Arial,sans-serif" font-size="17" font-weight="bold" fill="#fff">Multi-agent RAG · open source</text><text x="610" y="258" font-family="Impact,'Arial Black','Arial Narrow Bold',sans-serif" font-size="22" fill="#fff" letter-spacing="2">NEXT</text><text x="676" y="258" font-family="'Comic Sans MS','Chalkboard SE','Marker Felt',Arial,sans-serif" font-size="17" font-weight="bold" fill="#fff">SDE role · 2026 grad<tspan class="blink"> _</tspan></text><text x="610" y="284" font-family="'Comic Sans MS','Chalkboard SE','Marker Felt',Arial,sans-serif" font-size="15" fill="#fff">LeetCode grind: 256+ solved</text></g><g fill="none" stroke="#000" stroke-width="6" stroke-linejoin="miter"><polygon points="10,10 580,10 566,300 10,300"/><polygon points="596,10 990,10 990,150 590,150"/><polygon points="588,166 990,166 990,300 580,300"/></g></svg>
