@@ -7,6 +7,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Ankit500ak-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankit500ak)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ankitpalbuilds-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitpalbuilds)
 [![LeetCode](https://img.shields.io/badge/LeetCode-ankit500ak-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ankit500ak/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-manga--portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://ankit500ak.github.io/manga-portfolio/)
+[![Resume](https://img.shields.io/badge/Resume-PDF-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://ankit500ak.github.io/manga-portfolio/Ankit_Pal_Resume.pdf)
 
 </div>
 
@@ -14,13 +16,19 @@
 
 ## 📖 PROLOGUE
 
+<img align="left" src="./assets/parallax-character.gif" alt="Ankit Pal — manga-style portrait with a parallax drift effect" width="176" height="200"/>
+
 > B.Tech graduate in **CSE (AI & ML)** (Class of 2026), **Dronacharya College of Engineering, Gurugram**.
 > I build full-stack products, ML systems and automation that people actually use, from React dashboards to local-model pipelines and desktop apps.
 
-- 🧠 Currently building retrieval (RAG) pipelines for an AI IP/patent assistant
+- 🛡️ Building [**TrustRAG-Agent**](https://ankit500ak.github.io/manga-portfolio/#research) — my multi-agent RAG framework that verifies before it answers: fabricated answers on unanswerable questions fall from **100%** (no verification) → **74.0%** → **58.7% held-out** across two gates (SQuAD v2)
+- 📄 6 research papers — none peer-reviewed yet; *Who Verifies the Verifier?* is a **live preprint on Preprints.org** with a DOI
 - ⚙️ Love automation: if I do something twice, I script it
 - 🧩 Practising DSA on LeetCode (**256+ solved**)
 - 🎯 Actively looking for full-stack / SDE roles — available immediately, open to relocation
+- 📥 [**Download my resume (PDF)**](https://ankit500ak.github.io/manga-portfolio/Ankit_Pal_Resume.pdf)
+
+<br clear="left"/>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
@@ -40,7 +48,8 @@
 
 | Panel | Project | What it does | Stack |
 |:--:|:--|:--|:--|
-| 🎬 | **Kokoro Studio** | Content-automation studio powered by local models. Its pilot channel grew to **150 subscribers in 5 weeks** from organic search. | React, Node.js, local models |
+| 🛡️ | [**TrustRAG-Agent**](https://ankit500ak.github.io/manga-portfolio/#research) | Multi-agent RAG that verifies before it answers — planner, hybrid retriever, verifier and cited generator with an audit log. Fabricated answers on unanswerable questions cut **100% → 58.7%** (held-out) across two gates. | Python, Multi-Agent RAG |
+| 🎬 | **Kokoro Studio** | AI story-to-video studio — **Gemini** generates the stories, locally-run **Kokoro TTS** voices them. Its pilot channel grew to **150 subscribers in 5 weeks** from organic search. | React, Node.js, Gemini API, Kokoro TTS |
 | 🤖 | **Task-Logger Automation** | AutoHotkey script that screenshots at random intervals, sends them to Drive, and uses a low-cost AI model to detect the current task and log it to Google Sheets. | AutoHotkey, Google Drive/Sheets, AI API |
 | 🧾 | **Auto-Format Print Module** | Reusable templates that turn any logistics stage into a one-click, print-ready PDF bill. Used across **28 workflow stages**. | MERN |
 | 🎙️ | **Voice-Controlled Automation** | Voice-driven Python assistant with **50+ OS-level operations**. Won the College Hackathon 2023. | Python |
@@ -51,10 +60,20 @@
 
 | | Achievement |
 |:--:|:--|
-| 🥇 | **Winner**, College Hackathon 2023 |
-| 🥈 | **2nd place**, IIT Jammu Bootcamp (real-time employee performance tracking) |
+| 🥇 | **College Dev Champion ×3** — won the college development competition three consecutive years, incl. the College Hackathon 2023 (Dronacharya) |
+| 🥈 | **2nd Runner-Up**, IIT Jammu Bootcamp (real-time employee performance tracking) |
 | 🤖 | **Semi-finalist**, e-Yantra, IIT Bombay (autonomous bot navigation using Dijkstra's algorithm) |
-| 📈 | **All India Rank 15** (Slot 3), NCAT 2025 |
+| 📈 | **All India Rank 15** (Slot 3), NCAT 2025 — a national-level aptitude test |
+
+<img src="./assets/divider.svg" width="100%" alt=""/>
+
+## 📚 RESEARCH & IP
+
+- 📄 **Who Verifies the Verifier?** — reliability, bias and trust in LLM-as-a-Judge evaluation. Live preprint on Preprints.org (not peer-reviewed) · [DOI 10.20944/preprints202611.2489.v1](https://doi.org/10.20944/preprints202611.2489.v1)
+- 📄 **Agentic Retrieval-Augmented Generation** — IEEE-format preprint (not peer-reviewed); the paper behind TrustRAG-Agent
+- 📄 Four more research manuscripts (2026, unpublished): *Model Collapse*, *Beyond Silicon*, *Why Agents Fail*, *Beyond the Prompt*
+- ©️ **5 registered copyrights** (Copyright Office, India) — 4 as author, 1 co-owned: Project Zero · Code Weave · Paper Plus · ShadowMesh · Athenaeum
+- 🔀 Open source: [pycubrid PR #1300](https://github.com/cubrid-lab/pycubrid/pull/1300) **merged** · [cubrid-mcp-server PR #590](https://github.com/cubrid-lab/cubrid-mcp-server/pull/590) in review
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
@@ -88,6 +107,7 @@
 **Got an idea, a bug, or a wild project? Let's put it on the next page.**
 
 [![Connect](https://img.shields.io/badge/Let's_Connect-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitpalbuilds)
+[![Portfolio](https://img.shields.io/badge/See_the-Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://ankit500ak.github.io/manga-portfolio/)
 
 <sub>**— TO BE CONTINUED —**</sub>
 
