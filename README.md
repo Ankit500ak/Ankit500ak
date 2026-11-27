@@ -10,70 +10,97 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-manga--portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://ankit500ak.github.io/manga-portfolio/)
 [![Resume](https://img.shields.io/badge/Resume-PDF-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://ankit500ak.github.io/manga-portfolio/Ankit_Pal_Resume.pdf)
 
+<br/>
+
+<img src="./assets/parallax-character.gif" alt="Ankit Pal — manga-style portrait with a parallax drift effect" width="176" height="200"/>
+
+### ⚡ VOL. 01 — THE BUILDER ARC ⚡
+
+> *Every panel on this page is something I built, wrote or registered — and most of it you can check. This is the story so far.*
+
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 📖 PROLOGUE
+## 📖 CHAPTER 01 — THE HERO
 
-<img align="left" src="./assets/parallax-character.gif" alt="Ankit Pal — manga-style portrait with a parallax drift effect" width="176" height="200"/>
+| Stat | Character File |
+|:--|:--|
+| **Name** | Ankit Pal |
+| **Class** | Full-Stack Developer · Applied AI (RAG, verification) |
+| **Guild** | B.Tech, CSE (AI & ML) — Dronacharya College of Engineering, Gurugram · Class of 2026 · CGPA 8.5 |
+| **Base** | Gurugram, India — open to relocation |
+| **Special Stat** | LeetCode **256+** problems solved |
+| **Status** | 🟢 **Available immediately** — actively seeking full-stack / SDE roles |
 
-> B.Tech graduate in **CSE (AI & ML)** (Class of 2026), **Dronacharya College of Engineering, Gurugram**.
-> I build full-stack products, ML systems and automation that people actually use, from React dashboards to local-model pipelines and desktop apps.
+> *Fighting style: build it, verify it, ship it. Anything I do twice gets automated.*
 
-- 🛡️ Building [**TrustRAG-Agent**](https://ankit500ak.github.io/manga-portfolio/#research) — my multi-agent RAG framework that verifies before it answers: fabricated answers on unanswerable questions fall from **100%** (no verification) → **74.0%** → **58.7% held-out** across two gates (SQuAD v2)
-- 📄 6 research papers — none peer-reviewed yet; *Who Verifies the Verifier?* is a **live preprint on Preprints.org** with a DOI
-- ⚙️ Love automation: if I do something twice, I script it
-- 🧩 Practising DSA on LeetCode (**256+ solved**)
-- 🎯 Actively looking for full-stack / SDE roles — available immediately, open to relocation
+- 🛡️ Latest build: [**TrustRAG-Agent**](https://ankit500ak.github.io/manga-portfolio/#research) — a multi-agent RAG framework that refuses to answer when the evidence is weak
 - 📥 [**Download my resume (PDF)**](https://ankit500ak.github.io/manga-portfolio/Ankit_Pal_Resume.pdf)
-
-<br clear="left"/>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-## ⚔️ POWER LEVELS (Tech Stack)
+## ⚔️ CHAPTER 02 — POWER LEVELS
 
 <img src="./assets/skills.svg" width="100%" alt="Skills: React, Next.js, TypeScript, Node, Django, FastAPI, Python, RAG, SQL, Docker, AWS"/>
 
+<details>
+<summary>Text version</summary>
+
+React · Next.js · TypeScript · Node · Django · FastAPI · Python · RAG · SQL · Docker · AWS
+
+</details>
+
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 🗺️ QUEST LOG (Experience)
+## 🗺️ CHAPTER 03 — QUEST LOG
 
 <img src="./assets/quest-log.svg" width="100%" alt="Experience: Young Thames, Logiedge, Ambrosia Botanicals, IISPPER"/>
 
+<details>
+<summary>Text version</summary>
+
+- **Young Thames, Noida** — Executive Assistant (Web); led a team of 8 interns · Sep–Nov 2026
+- **Logiedge, Gurugram** — Full-Stack Developer (MERN) · Feb–May 2026
+- **Ambrosia Botanicals, Gurugram** — Full-Stack Developer · Oct–Dec 2025
+- **IISPPER, Remote** — Full-Stack Developer Intern · Mar–Oct 2025
+
+</details>
+
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 🔥 SPECIAL MOVES (Projects)
+## 🔥 CHAPTER 04 — SPECIAL MOVES
 
 | Panel | Project | What it does | Stack |
 |:--:|:--|:--|:--|
-| 🛡️ | [**TrustRAG-Agent**](https://ankit500ak.github.io/manga-portfolio/#research) | Multi-agent RAG that verifies before it answers — planner, hybrid retriever, verifier and cited generator with an audit log. Fabricated answers on unanswerable questions cut **100% → 58.7%** (held-out) across two gates. | Python, Multi-Agent RAG |
-| 🎬 | **Kokoro Studio** | AI story-to-video studio — **Gemini** generates the stories, locally-run **Kokoro TTS** voices them. Its pilot channel grew to **150 subscribers in 5 weeks** from organic search. | React, Node.js, Gemini API, Kokoro TTS |
-| 🤖 | **Task-Logger Automation** | AutoHotkey script that screenshots at random intervals, sends them to Drive, and uses a low-cost AI model to detect the current task and log it to Google Sheets. | AutoHotkey, Google Drive/Sheets, AI API |
-| 🧾 | **Auto-Format Print Module** | Reusable templates that turn any logistics stage into a one-click, print-ready PDF bill. Used across **28 workflow stages**. | MERN |
+| 🛡️ | [**TrustRAG-Agent**](https://ankit500ak.github.io/manga-portfolio/#research) | Multi-agent RAG that verifies before it answers — planner, hybrid retriever, verifier and cited generator with an audit log. Fabricated answers on unanswerable questions cut **100% → 74.0% → 58.7% held-out** across two verification gates (SQuAD v2). | Python, Multi-Agent RAG |
+| 🎬 | **Kokoro Studio** | AI story-to-video studio — **Gemini** generates the stories, locally-run **Kokoro TTS** voices them. Its pilot channel reached **150 subscribers in 5 weeks**, all organic. | React, Node.js, Gemini API, Kokoro TTS |
+| 🤖 | **Task-Logger Automation** | Personal AutoHotkey tool — screenshots my own screen at random intervals and logs the detected task to Google Sheets using a low-cost AI model. | AutoHotkey, Google Sheets, AI API |
+| 🧾 | **Auto-Format Print Module** | Reusable templates that turn any logistics stage into a one-click, print-ready PDF bill. Used across **28 workflow stages** at Logiedge. | MERN |
 | 🎙️ | **Voice-Controlled Automation** | Voice-driven Python assistant with **50+ OS-level operations**. Won the College Hackathon 2023. | Python |
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 🏆 HALL OF FAME
+## 🏆 CHAPTER 05 — HALL OF FAME
 
 | | Achievement |
 |:--:|:--|
 | 🥇 | **College Dev Champion ×3** — won the college development competition three consecutive years, incl. the College Hackathon 2023 (Dronacharya) |
 | 🥈 | **2nd Runner-Up**, IIT Jammu Bootcamp (real-time employee performance tracking) |
-| 🤖 | **Semi-finalist**, e-Yantra, IIT Bombay (autonomous bot navigation using Dijkstra's algorithm) |
-| 📈 | **All India Rank 15** (Slot 3), NCAT 2025 — a national-level aptitude test |
+| 🤖 | **Semi-finalist**, e-Yantra Robotics Competition, IIT Bombay — autonomous bot navigation with Dijkstra's algorithm |
+| 📈 | **All India Rank 15** (Slot 3), NCAT 2025 |
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 📚 RESEARCH & IP
+## 📚 CHAPTER 06 — SCROLLS & RELICS
+
+> *The research arc. One preprint is public with a DOI; the rest are manuscripts, and each is labelled as such.*
 
 - 📄 **Who Verifies the Verifier?** — reliability, bias and trust in LLM-as-a-Judge evaluation. Live preprint on Preprints.org (not peer-reviewed) · [DOI 10.20944/preprints202611.2489.v1](https://doi.org/10.20944/preprints202611.2489.v1)
-- 📄 **Agentic Retrieval-Augmented Generation** — IEEE-format preprint (not peer-reviewed); the paper behind TrustRAG-Agent
+- 📄 **Agentic Retrieval-Augmented Generation** — preprint in IEEE conference format (not peer-reviewed, not published by IEEE); the basis of TrustRAG-Agent
 - 📄 Four more research manuscripts (2026, unpublished): *Model Collapse*, *Beyond Silicon*, *Why Agents Fail*, *Beyond the Prompt*
-- ©️ **5 registered copyrights** (Copyright Office, India) — 4 as author, 1 co-owned: Project Zero · Code Weave · Paper Plus · ShadowMesh · Athenaeum
-- 🔀 Open source: [pycubrid PR #1300](https://github.com/cubrid-lab/pycubrid/pull/1300) **merged** · [cubrid-mcp-server PR #590](https://github.com/cubrid-lab/cubrid-mcp-server/pull/590) in review
+- ©️ **5 software copyrights registered** (Copyright Office, India — software works, not patents): 4 as author (Project Zero, Code Weave, Paper Plus, ShadowMesh) and 1 co-owned (Athenaeum)
+- 🔀 Open source: [hachi PR #167](https://github.com/OpenGigantic/hachi/pull/167) **merged (27 Nov 2026)** — secret scan over the tracked file tree · [pycubrid PR #1300](https://github.com/cubrid-lab/pycubrid/pull/1300) **merged** · [cubrid-mcp-server PR #590](https://github.com/cubrid-lab/cubrid-mcp-server/pull/590) in review
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
@@ -100,14 +127,11 @@
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-## 📬 NEXT CHAPTER
+## 📬 FINAL CHAPTER — NEXT PAGE
 
 <div align="center">
 
 **Got an idea, a bug, or a wild project? Let's put it on the next page.**
-
-[![Connect](https://img.shields.io/badge/Let's_Connect-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitpalbuilds)
-[![Portfolio](https://img.shields.io/badge/See_the-Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://ankit500ak.github.io/manga-portfolio/)
 
 <sub>**— TO BE CONTINUED —**</sub>
 
